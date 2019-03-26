@@ -1,0 +1,65 @@
+.container {
+    margin-top: 200px;
+    margin-left: 600px;
+    flex-direction: column;
+}
+
+#vierkant1 {
+    font-weight: bold;
+    margin-top: -530px;
+    border: 2px solid lightblue;
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+}
+
+#vierkant2 {
+    font-weight: bold;
+    border: 2px solid lightblue;
+    background-color: lightcoral;
+    width: 100px;
+    height: 100px;
+}
+
+
+.flexcon {
+    margin-top: 13px;
+    margin-left: 702px;
+    flex-direction: column;
+}
+
+#vierkant3 {
+    margin-top: 0px;
+    border: 2px solid lightblue;
+    background-color: mediumseagreen;
+    width: 100px;
+    height: 100px;
+}
+
+#vierkant4 {
+    border: 2px solid lightblue;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+
+#rcorners4 {
+    margin-top: 400px;
+    margin-left: 550px;
+    border-radius: 15px;
+    background: black;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+}
+
+div {
+    height: 90px;
+    line-height: 90px;
+    text-align: center;
+}
+
+.nummer4 {
+    color: white;
+    font-size: 100px;
+}
